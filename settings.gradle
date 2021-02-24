@@ -1,0 +1,3 @@
+include ':mmap_lib'
+include ':app'
+rootProject.name = "MMapDemo"
